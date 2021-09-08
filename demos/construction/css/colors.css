@@ -5,11 +5,11 @@
 -----------------------------------------------------------------*/
 
 
-::selection { background: #F18052; }
+::selection { background: #FF0000; }
 
-::-moz-selection { background: #F18052; }
+::-moz-selection { background: #FF0000; }
 
-::-webkit-selection { background: #F18052; }
+::-webkit-selection { background: #FF0000; }
 
 
 a,
@@ -59,7 +59,7 @@ h6 > span:not(.nocolor):not(.badge),
 .page-link:hover,
 .page-link:focus,
 .dark .post-timeline .entry:hover .entry-timeline,
-.dark .post-timeline .entry:hover .timeline-divider { color: #F18052; }
+.dark .post-timeline .entry:hover .timeline-divider { color: #FF0000; }
 
 .color,
 .top-cart-item-desc a:hover,
@@ -73,7 +73,7 @@ h6 > span:not(.nocolor):not(.badge),
 .overlay-menu #primary-menu.dark > ul > li.current > a,
 .nav-tree li:hover > a,
 .nav-tree li.current > a,
-.nav-tree li.active > a { color: #F18052 !important; }
+.nav-tree li.active > a { color: #FF0000 !important; }
 
 #primary-menu.style-3 > ul > li.current > a,
 #primary-menu.sub-title > ul > li:hover > a,
@@ -115,7 +115,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .ei-slider-thumbs li.ei-slider-element,
 .nav-pills > li.active > a,
 .nav-pills > li.active > a:hover,
-.nav-pills > li.active > a:focus { background-color: #F18052; }
+.nav-pills > li.active > a:focus { background-color: #FF0000; }
 
 .bgcolor,
 .button.button-3d:not(.button-white):not(.button-dark):not(.button-border):not(.button-black):not(.button-red):not(.button-teal):not(.button-yellow):not(.button-green):not(.button-brown):not(.button-aqua):not(.button-purple):not(.button-leaf):not(.button-pink):not(.button-blue):not(.button-dirtygreen):not(.button-amber):not(.button-lime):hover,
@@ -126,7 +126,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .owl-carousel .owl-controls .owl-nav [class*=owl-]:hover,
 .page-link,
 .page-link:hover,
-.page-link:focus { background-color: #F18052 !important; }
+.page-link:focus { background-color: #FF0000 !important; }
 
 #primary-menu.style-4 > ul > li:hover > a,
 #primary-menu.style-4 > ul > li.current > a,
@@ -140,7 +140,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .dark .post-timeline .entry:hover .entry-timeline,
 .dark .post-timeline .entry:hover .timeline-divider,
 .dark .cart-product-thumbnail img:hover,
-.heading-block.border-color:after { border-color: #F18052; }
+.heading-block.border-color:after { border-color: #FF0000; }
 
 .top-links ul ul,
 .top-links ul div.top-link-section,
@@ -157,12 +157,12 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .dark #primary-menu:not(.not-dark) ul li .mega-menu-content.style-2,
 #primary-menu.dark ul li .mega-menu-content.style-2,
 .dark #top-cart .top-cart-content,
-.tabs.tabs-tb ul.tab-nav li.ui-tabs-active a { border-top-color: #F18052; }
+.tabs.tabs-tb ul.tab-nav li.ui-tabs-active a { border-top-color: #FF0000; }
 
 #page-menu.dots-menu nav li span:after,
-.title-block { border-left-color: #F18052; }
+.title-block { border-left-color: #FF0000; }
 
-.title-block-right { border-right-color: #F18052; }
+.title-block-right { border-right-color: #FF0000; }
 
 .fancy-title.title-bottom-border h1,
 .fancy-title.title-bottom-border h2,
@@ -171,7 +171,7 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .fancy-title.title-bottom-border h5,
 .fancy-title.title-bottom-border h6,
 .more-link,
-.tabs.tabs-bb ul.tab-nav li.ui-tabs-active a { border-bottom-color: #F18052; }
+.tabs.tabs-bb ul.tab-nav li.ui-tabs-active a { border-bottom-color: #FF0000; }
 
 .border-color,
 .process-steps li.active a,
@@ -179,15 +179,15 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
 .tagcloud a:hover,
 .page-link,
 .page-link:hover,
-.page-link:focus { border-color: #F18052 !important; }
+.page-link:focus { border-color: #FF0000 !important; }
 
 .fbox-effect.fbox-dark .fbox-icon i:after,
-.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #F18052; }
+.dark .fbox-effect.fbox-dark .fbox-icon i:after { box-shadow: 0 0 0 2px #FF0000; }
 
 .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
 .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i,
 .dark .fbox-border.fbox-effect.fbox-dark .fbox-icon i:hover,
-.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #F18052; }
+.dark .fbox-border.fbox-effect.fbox-dark:hover .fbox-icon i { box-shadow: 0 0 0 1px #FF0000; }
 
 
 @media only screen and (max-width: 991px) {
@@ -198,15 +198,15 @@ ul.tab-nav.tab-nav2 li.ui-state-active a,
     body:not(.dark) #header:not(.dark) #header-wrap:not(.dark) #primary-menu > div > ul > li.current a,
     #primary-menu ul ul li:hover > a,
     #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title:hover > a,
-    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #F18052 !important; }
+    #primary-menu ul li .mega-menu-content.style-2 > ul > li.mega-menu-title > a:hover { color: #FF0000 !important; }
 
-    #page-menu nav { background-color: #F18052; }
+    #page-menu nav { background-color: #FF0000; }
 
 }
 
 
 @media only screen and (max-width: 767px) {
 
-    .portfolio-filter li a:hover { color: #F18052; }
+    .portfolio-filter li a:hover { color: #FF0000; }
 
 }
